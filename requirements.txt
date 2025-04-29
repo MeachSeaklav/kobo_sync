@@ -1,0 +1,11 @@
+wget~=3.2
+requests~=2.31.0
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
+pandas~=2.0.3
+selenium~=3.141.0
+flask~=2.3.3
+setuptools~=68.0.0
+streamlit~=1.26.0
+openpyxl
+psutil~=5.9.5
