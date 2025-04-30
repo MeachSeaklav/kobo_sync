@@ -1,9 +1,9 @@
 wget~=3.2
 requests==2.31.0
-bs4~=0.0.1
 beautifulsoup4~=4.12.2
+bs4~=0.0.1
 pandas==2.2.2
-selenium~=4.20.0  # Update to modern selenium
+selenium~=4.20.0
 flask~=2.3.3
 setuptools~=68.0.0
 streamlit==1.33.0
@@ -11,4 +11,5 @@ openpyxl
 psutil~=5.9.5
 SQLAlchemy==2.0.29
 pymysql~=1.1.0
-
+arrow
+pytz
